@@ -2,11 +2,11 @@
 
 ## doc
 
-the Naga API
+Naga API
 
 ## WebDriverAgent.zip
 
-unzip it to /usr/local/lib/node_modules/
+解压到 /usr/local/lib/node_modules/
 
 ## naga-0.1.jar
 
@@ -16,7 +16,8 @@ import it to your project
 
 - **Mac OS 10.11.5+（推荐10.12）**
 
-- **Xcode 8.2+（在8.2.1上测试OK，未更新8.3）**
+- **Xcode 8.2.1**
+- **Xcode 8.3.1**
 
 - **Jdk 1.7+（推荐JDK1.8）**
 
@@ -37,4 +38,4 @@ brew install usbmuxd
 ```
 - **WebDriverAgent**
 
-将WebDriverAgent.zip解压并复制到/usr/local/lib/node_modules/目录下即可
+将WebDriverAgent.zip或WebDriverAgent-iOS10.3.zip（对应Xcode8.3.1）解压并复制到/usr/local/lib/node_modules/目录下即可
