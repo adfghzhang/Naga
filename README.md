@@ -10,14 +10,14 @@ Naga API
 
 ## naga-0.1.jar
 
-import it to your project
+将该jar导入到您的项目中
 
 ## Environment Setup
 
 - **Mac OS 10.11.5+（推荐10.12）**
 
 - **Xcode 8.2.1**
-- **Xcode 8.3.1**
+- **Xcode 8.3.1（推荐）**
 
 - **Jdk 1.7+（推荐JDK1.8）**
 
