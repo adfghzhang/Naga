@@ -16,7 +16,9 @@ import it to your project
 
 - **Mac OS 10.11.5+（recommend 10.12）**
 
-- **Xcode 8.2+**
+- **Xcode 8.2.1**
+
+- **Xcode 8.3.1(recommend)**
 
 - **Jdk 1.7+（recommend JDK1.8）**
 
@@ -38,3 +40,4 @@ brew install usbmuxd
 - **WebDriverAgent**
 
 unzip WebDriverAgent.zip to /usr/local/lib/node_modules/
+if you use Xcode8.3.1 please use WebDriverAgent-iOS10.3.zip
